@@ -1,16 +1,17 @@
 # factorio-science-packs
-Factorio 1.0.0 science packs blueprints tier I-V
+Factorio 1.0.0 science packs blueprints tier I-VI
 
 Game version: 1.0.0 - 54889, linux64, steam
 
-Blueprint string contains 5 prints of:
+Blueprint string contains 6 prints of:
 
-Automation science pack (red, tier I)
-Logistic science pack (green, tier II)
-Military science pack (black, tier III)
-Chemical science pack (blue, tier VI)
-Production science pack (purple, tier V)
-Utility science pack (yellow, tier VI)
+* Automation science pack (red, tier I)
+* Logistic science pack (green, tier II)
+* Military science pack (black, tier III)
+* Chemical science pack (blue, tier VI)
+* Production science pack (purple, tier V)
+* Utility science pack (yellow, tier VI)
+
 A schema consumes simple materials: metal plates, stone etc and produces a science pack.
 
 A schema is made of simplest and cheapest components.
