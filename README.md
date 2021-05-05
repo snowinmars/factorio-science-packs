@@ -10,5 +10,8 @@ Game version: 1.1.32 - 58364, linux64/win32, steam
 * Production science pack (purple, tier V)
 * Utility science pack (yellow, tier VI)
 
+
 * Solar panels
 * Red ammo
+* Flying robot frame
+* Red circuit
