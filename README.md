@@ -1,5 +1,5 @@
 # factorio-science-packs
-Factorio 1.0.0 science packs blueprints tier I-VI
+Factorio blueprints
 
 Game version: 1.1.32 - 58364, linux64/win32, steam
 
